@@ -1,0 +1,222 @@
+{
+"products": [
+{
+"id": 1,
+"categoryId": 1,
+"productName": "Gömlek",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 2,
+"categoryId": 1,
+"productName": "Pantolon",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 4,
+"categoryId": 1,
+"productName": "Yastık",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 5,
+"categoryId": 2,
+"productName": "Bez Çanta",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 6,
+"categoryId": 2,
+"productName": "Saksı",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 7,
+"categoryId": 7,
+"productName": "Bisiklet",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 8,
+"categoryId": 2,
+"productName": "Plaj Havlusu",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 9,
+"categoryId": 6,
+"productName": "Güneş Gözlüğü",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 10,
+"categoryId": 8,
+"productName": "Bardak",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 11,
+"categoryId": 4,
+"productName": "Şapka",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 12,
+"categoryId": 4,
+"productName": "Yazlık Sandalet",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 13,
+"categoryId": 8,
+"productName": "Kitap",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 14,
+"categoryId": 7,
+"productName": "Spor Ayakkabısı",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 15,
+"categoryId": 2,
+"productName": "Spor Şortu",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 16,
+"categoryId": 3,
+"productName": "Yatak",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 17,
+"categoryId": 6,
+"productName": "Oturma Grubu",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 18,
+"categoryId": 8,
+"productName": "Güneş Şapkası",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 19,
+"categoryId": 3,
+"productName": "Teatime Çikolata Kurabiyesi",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 20,
+"categoryId": 3,
+"productName": "Sir Rodney'nin Marmeladı",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 21,
+"categoryId": 3,
+"productName": "Sir Rodney'nin Kekleri",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 22,
+"categoryId": 5,
+"productName": "Gustaf'ın Knäckebröd'ü",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 23,
+"categoryId": 5,
+"productName": "Tunnbröd",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 24,
+"categoryId": 1,
+"productName": "Guaraná Fantástica",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 25,
+"categoryId": 3,
+"productName": "NuNuCa Fındık Fıstık Kreması",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+},
+{
+"id": 26,
+"categoryId": 3,
+"productName": "Gumbär Jelibon",
+"image": "images/product.jpg",
+"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }  
+   
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Kadın"
+     
+    },
+    {
+      "id": 2,
+      "categoryName": "Erkek"
+     
+    },
+    {
+      "id": 3,
+      "categoryName": "Anne & Çocuk"
+     
+    },
+    {
+      "id": 4,
+      "categoryName": "Ev & Mobilya"
+    
+    },
+    {
+      "id": 5,
+      "categoryName": "Süpermarket"
+     
+    },
+    {
+      "id": 6,
+      "categoryName": "Ayakkabı & Çanta"
+     
+    },
+    {
+      "id": 7,
+      "categoryName": "Elektronik"
+     
+    },
+    {
+      "id": 8,
+      "categoryName": "Spor & Outdoor"
+     
+    }
+  ]
+}
