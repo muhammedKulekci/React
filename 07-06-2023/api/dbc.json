@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "123",
+      "name": "Chai",
+      "photo": "images/user.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "1",
+      "name": "Chai",
+      "photo": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Hyundai"
+    },
+    {
+      "id": 2,
+      "categoryName": "Maserati"
+    },
+    {
+      "id": 3,
+      "categoryName": "Porsche"
+    },
+    {
+      "id": 4,
+      "categoryName": "Ferrari"
+    },
+    {
+      "id": 5,
+      "categoryName": "Land Rover"
+    },
+    {
+      "id": 6,
+      "categoryName": "Kia"
+    },
+    {
+      "id": 7,
+      "categoryName": "Tesla"
+    },
+    {
+      "id": 8,
+      "categoryName": "Bugatti"
+    },
+    {
+      "id": 9,
+      "categoryName": "Mercedes-Benz"
+    },
+    {
+      "id": 10,
+      "categoryName": "BMW"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "productName": "Ferrari 458 Italia",
+      "image": "images/product.jpg",
+      "desc": "The Ferrari 458 Italia is a mid-engine sports car that combines style, performance, and precision engineering. With its powerful V8 engine and aerodynamic design, it delivers exhilarating speed and exceptional handling. The interior features luxurious materials and advanced technology, providing a comfortable an",
+      "price": "500"
+    },
+    {
+      "id": 2,
+      "categoryId": 6,
+      "productName": "Kia Stinger",
+      "image": "images/product.jpg",
+      "desc": "The Kia Stinger is a sporty and dynamic sedan that stands out with its bold design and powerful performance. Equipped with a turbocharged engine and advanced driving dynamics, it delivers thrilling acceleration and agile handling. The interior offers a blend of comfort and technology, creating a luxurious and connected driving environment.",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "productName": "Maserati Quattroporte",
+      "image": "images/product.jpg",
+      "desc": "The Maserati Quattroporte is a luxury sedan that embodies elegance and performance. With its distinctive Italian styling and refined craftsmanship, it exudes sophistication. Powered by a powerful engine and equipped with advanced driving aids, it offers a smooth and exhilarating driving experience. The interior showcases meticulous attention to detail, providing a comfortable and luxurious atmosphere.",
+      "price": "600"
+    },
+    {
+      "id": 4,
+      "categoryId": 10,
+      "productName": "BMW M5",
+      "image": "images/product.jpg",
+      "desc": "The BMW M5 is a high-performance sedan that combines luxury and power. Featuring a twin-turbocharged engine and advanced performance enhancements, it delivers thrilling acceleration and precise handling. The stylish exterior design and premium interior finishes reflect the craftsmanship and attention to detail synonymous with BMW. It offers advanced technology features and a comfortable driving environment.",
+      "price": "80"
+    },
+    {
+      "id": 5,
+      "categoryId": 9,
+      "productName": "Mercedes-Benz S-Class",
+      "image": "images/product.jpg",
+      "desc": "The Mercedes-Benz S-Class is a flagship luxury sedan that sets new standards in comfort, safety, and technology. With its elegant design, refined powertrain options, and cutting-edge features, it offers a truly exceptional driving experience. The spacious and meticulously crafted interior provides a haven of relaxation and convenience, making every journey a pleasurable one.",
+      "price": "90"
+    },
+    {
+      "id": 6,
+      "categoryId": 5,
+      "productName": "Land Rover Range Rover",
+      "image": "images/product.jpg",
+      "desc": "The Land Rover Range Rover is an iconic luxury SUV that combines off-road capability with opulent comfort. Equipped with advanced terrain response systems and powerful engines, it conquers any terrain with ease. The interior offers sumptuous seating, advanced technology, and a refined ambiance, providing a first-class experience for both driver and passengers.",
+      "price": "100"
+    },
+    {
+      "id": 7,
+      "categoryId": 8,
+      "productName": "Bugatti Chiron",
+      "image": "images/product.jpg",
+      "desc": "The Bugatti Chiron is a masterpiece of engineering and design, representing the pinnacle of automotive performance. With its quad-turbocharged engine and aerodynamic body, it achieves mind-boggling speed and unmatched driving dynamics. The luxurious interior features exquisite craftsmanship and cutting-edge technology, creating an unparalleled driving experience for the lucky few who have the privilege to own one.",
+      "price": "1200"
+    },
+    {
+      "id": 8,
+      "categoryId": 7,
+      "productName": "Tesla Model S",
+      "image": "images/product.jpg",
+      "desc": "The Tesla Model S is an all-electric luxury sedan that redefines the concept of sustainable transportation. With its electric powertrain, it offers instant acceleration and a long-range driving experience. The sleek and minimalist design is complemented by advanced technology features, including Autopilot capabilities. The interior provides a spacious and futuristic environment, showcasing Tesla's commitment to innovation.",
+      "price": "220"
+    },
+
+    {
+      "id": 9,
+      "categoryId": 1,
+      "productName": "Hyundai Tucson",
+      "image": "images/product.jpg",
+      "desc": "The Hyundai Tucson is a compact SUV that blends style, versatility, and advanced safety features. With its modern design and comfortable interior, it offers a pleasant driving experience for both city commutes and weekend getaways. The Tucson is equipped with the latest technology and driver-assistance systems, ensuring a confident and enjoyable journey.",
+      "price": "50"
+    },
+    {
+      "id": 10,
+      "categoryId": 3,
+      "productName": "Porsche 911",
+      "image": "images/product.jpg",
+      "desc": "The Porsche 911 is an iconic sports car that embodies the essence of performance and precision engineering. With its rear-engine layout and timeless design, it delivers exhilarating acceleration and precise handling. The 911's interior features a driver-focused cockpit and luxurious appointments, creating a harmonious blend of sportiness and comfort.",
+      "price": "110"
+    }
+  ]
+}
