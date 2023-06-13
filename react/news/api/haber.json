@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ekonomi"
+    },
+    {
+      "id": 2,
+      "name": "Spor"
+    },
+    {
+      "id": 3,
+      "name": "Dünya"
+    },
+    { "id": 4, "name": "Teknoloji" },
+    {
+      "id": 5,
+      "name": "Politika"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Borsada Mehmet Şimşek etkisi! BIST 100 endeksi rekor kırdı.",
+      "desc": "Hazine ve Maliye Bakanlığı'na Mehmet Şimşek'in, Merkez Bankası Başkanlığı'na da Hafize Gaye Erkan'ın atanması piyasalarda pozitif etki yarattı. Borsa İstanbul'da BIST 100 endeksi, haftanın son işlem gününü (9 Haziran Cuma) yüzde 1,31 değer kazancıyla 5.626,49 puandan tamamladı. BIST 100, böylece tüm zamanların en yüksek haftalık kapanışını gerçekleştirdi.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/10/mehmet-simsek-etkisini-hizli-gosterdi-piyasalar_16016201_46.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Güne rekorla başladı! Altının gram fiyatı 1.482 lira seviyesinden işlem görüyor",
+      "desc": "Analistler, küresel piyasalarda merkez bankalarının şahin politikaları yakında terk edebileceği beklentisinin güçlenmesinin risk iştahını desteklediğini belirtti. Dün ABD'de açıklanan verilere göre, ilk kez işsizlik maaşı başvurusunda bulunanların sayısının 261 bine çıkarak Ekim 2021'den bu yana en yüksek seviyeye ulaştığını hatırlatan analistler, iş gücü piyasasının soğumaya başlamış olabileceğini söyledi.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/09/dugunlerde-ceyrek-takmak-artik-hayal-iste-altin_16014101_70.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "title": "4 takım gönderiyoruz! İşte Avrupa'da mücadele edecek temsilcilerimiz",
+      "desc": "Lig ikincisi Fenerbahçe'nin Medipol Başakşehir'i 2-0 mağlup ettiği Ziraat Türkiye Kupası finali sonrası 2023-24 sezonunda Türkiye'yi Avrupa kupalarında temsil edecek takımlar da belli oldu. Şampiyonlar Ligi'ndeki Galatasaray ve Konferans Ligi'ndeki Fenerbahçe, Beşiktaş ve Adana Demirspor gruplara kalabilmek için 3 tur atlamak zorunda.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/11/iste-gelecek-sezon-avrupa-da-mucadele-edecek_16019585_57.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "title": "Cumhurbaşkanı Erdoğan, tanıştığı kişinin Manchester City'nin sahibi olduğunu öğrenince şaşkınlığını gizleyemedi: Maşallah",
+      "desc": "Inter ile Manchester City, UEFA Şampiyonlar Ligi finalinde İstanbul'da karşı karşıya geldi. Mücadeleyi İngiliz ekibi 1-0 kazanırken, kulübün sahibi Shaikh Mansour 13 yıl sonra takımın maçını izlemek için İstanbul'a geldi. Mansour'un, Cumhurbaşkanı Recep Tayyip Erdoğan ile tanıştığı anlar kameralara yansıdı.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/erdogan-tanistigi-kisinin-hangi-kulubun-sahibi_16019868_5.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "title": "Ukrayna, Rusların kontrolündeki Makarivka'yı da geri aldı",
+      "desc": "Savunma Bakan Yardımcısı Malyar, Ukrayna askerlerinin savunmaya devam ettiği bölgelerde hiçbir mevzinin kaybedilmediğini ileri sürdü. Ukrayna silahlı kuvvetlerine bağlı Oleksii Dovbuş 68. Avcı Birliği, sosyal medya hesabından yaptığı açıklamada, Donetsk bölgesindeki Blagodatne köyünü işgalden kurtardıklarını açıklamıştı.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/ukrayna-ordusu-bir-bolgeyi-daha-rus-kontrolunden_16019534_36.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "title": "ABD'de endişe yaratan araştırma! Korona aşılarının kalp kası iltihabı riskini artırdığı tespit edildi",
+      "desc": "Dünya üzerinde 7 milyondan fazla insanın ölümüne neden olan koronavirüsle ilgili yapılan son araştırmalar koruma vaadiyle piyasaya sürülen çoğu aşının insan sağlığı için risk oluşturduğunu gözler önüne serdi. ABD Hastalık Kontrol ve Korunma Merkezleri'nin (CDC) tarafından yapılan yeni bir araştırma ise endişenin boyutunu bir hayli artırdı. Araştırmaya göre koronavirüse karşı geliştirilen aşılar, kalp kası iltihabı (Miyokardit) riskini yüzde 13,200 oranında artırıyor.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/11/abd-deki-koronavirus-arastirmasinin-sonuclari-bir_16018570_87.jpg",
+      "category_id": 3
+    }
+  ]
+}
