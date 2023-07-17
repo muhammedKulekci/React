@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ekonomi"
+    },
+    {
+      "id": 2,
+      "name": "Spor"
+    },
+    {
+      "id": 3,
+      "name": "Dünya"
+    },
+    {
+      "id": 4,
+      "name": "Teknoloji"
+    },
+    {
+      "id": 5,
+      "name": "Politika"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Borsada Mehmet Şimşek etkisi! BIST 100 endeksi rekor kırdı.",
+      "desc": "Hazine ve Maliye Bakanlığı'na Mehmet Şimşek'in, Merkez Bankası Başkanlığı'na da Hafize Gaye Erkan'ın atanması piyasalarda pozitif etki yarattı. Borsa İstanbul'da BIST 100 endeksi, haftanın son işlem gününü (9 Haziran Cuma) yüzde 1,31 değer kazancıyla 5.626,49 puandan tamamladı. BIST 100, böylece tüm zamanların en yüksek haftalık kapanışını gerçekleştirdi.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/10/mehmet-simsek-etkisini-hizli-gosterdi-piyasalar_16016201_46.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Güne rekorla başladı! Altının gram fiyatı 1.482 lira seviyesinden işlem görüyor",
+      "desc": "Analistler, küresel piyasalarda merkez bankalarının şahin politikaları yakında terk edebileceği beklentisinin güçlenmesinin risk iştahını desteklediğini belirtti. Dün ABD'de açıklanan verilere göre, ilk kez işsizlik maaşı başvurusunda bulunanların sayısının 261 bine çıkarak Ekim 2021'den bu yana en yüksek seviyeye ulaştığını hatırlatan analistler, iş gücü piyasasının soğumaya başlamış olabileceğini söyledi.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/09/dugunlerde-ceyrek-takmak-artik-hayal-iste-altin_16014101_70.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "title": "4 takım gönderiyoruz! İşte Avrupa'da mücadele edecek temsilcilerimiz",
+      "desc": "Lig ikincisi Fenerbahçe'nin Medipol Başakşehir'i 2-0 mağlup ettiği Ziraat Türkiye Kupası finali sonrası 2023-24 sezonunda Türkiye'yi Avrupa kupalarında temsil edecek takımlar da belli oldu. Şampiyonlar Ligi'ndeki Galatasaray ve Konferans Ligi'ndeki Fenerbahçe, Beşiktaş ve Adana Demirspor gruplara kalabilmek için 3 tur atlamak zorunda.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/11/iste-gelecek-sezon-avrupa-da-mucadele-edecek_16019585_57.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "title": "Cumhurbaşkanı Erdoğan, tanıştığı kişinin Manchester City'nin sahibi olduğunu öğrenince şaşkınlığını gizleyemedi: Maşallah",
+      "desc": "Inter ile Manchester City, UEFA Şampiyonlar Ligi finalinde İstanbul'da karşı karşıya geldi. Mücadeleyi İngiliz ekibi 1-0 kazanırken, kulübün sahibi Shaikh Mansour 13 yıl sonra takımın maçını izlemek için İstanbul'a geldi. Mansour'un, Cumhurbaşkanı Recep Tayyip Erdoğan ile tanıştığı anlar kameralara yansıdı.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/erdogan-tanistigi-kisinin-hangi-kulubun-sahibi_16019868_5.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "title": "Ukrayna, Rusların kontrolündeki Makarivka'yı da geri aldı",
+      "desc": "Savunma Bakan Yardımcısı Malyar, Ukrayna askerlerinin savunmaya devam ettiği bölgelerde hiçbir mevzinin kaybedilmediğini ileri sürdü. Ukrayna silahlı kuvvetlerine bağlı Oleksii Dovbuş 68. Avcı Birliği, sosyal medya hesabından yaptığı açıklamada, Donetsk bölgesindeki Blagodatne köyünü işgalden kurtardıklarını açıklamıştı.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/ukrayna-ordusu-bir-bolgeyi-daha-rus-kontrolunden_16019534_36.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "title": "ABD'de endişe yaratan araştırma! Korona aşılarının kalp kası iltihabı riskini artırdığı tespit edildi",
+      "desc": "Dünya üzerinde 7 milyondan fazla insanın ölümüne neden olan koronavirüsle ilgili yapılan son araştırmalar koruma vaadiyle piyasaya sürülen çoğu aşının insan sağlığı için risk oluşturduğunu gözler önüne serdi. ABD Hastalık Kontrol ve Korunma Merkezleri'nin (CDC) tarafından yapılan yeni bir araştırma ise endişenin boyutunu bir hayli artırdı. Araştırmaya göre koronavirüse karşı geliştirilen aşılar, kalp kası iltihabı (Miyokardit) riskini yüzde 13,200 oranında artırıyor.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/11/abd-deki-koronavirus-arastirmasinin-sonuclari-bir_16018570_87.jpg",
+      "category_id": 3
+    },
+    {
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/luka-modric-suudi-arabistan-in-servet_16021900_54.jpg",
+      "category_Id": "2",
+      "desc": "Marca'da yer alan habere göre, Real Madrid ile sözleşmesi sona eren ve henüz yeni sözleşme konusunda kulübü ile anlaşamayan Luka Modric'e Al Ahli kulübü yıllık 80 milyon euro maaşı gözden çıkardı. Hırvat futbolcu, teklife sıcak bakmadı ve Real Madrid'de kalmak istediği için Al Ahli kulübünün servet değerindeki teklifini reddetti.",
+      "title": "Bambaşka bir karakter! Luka Modric, Suudi Arabistan ekibinin servet değerindeki teklifini elinin tersiyle itti",
+      "id": 7
+    },
+    {
+      "title": "Asgari Ücret Tespit Komisyonu öncesi TİSK'ten açıklama: Bayram tatiline girmeden bu süreci tamamlamak istiyoruz",
+      "desc": "Milyonlarca kişiyi ilgilendiren asgari ücretle ilgili pazarlık süreci yarın başlıyor. Çalışma ve Sosyal Güvenlik Bakanlığı'nın ev sahipliğindeki Asgari Ücret Tespit Komisyonu toplantısına; işçi kesimini temsilen TÜRK-İŞ, işveren kesimini temsilen Türkiye İşveren Sendikaları Konfederasyonu (TİSK) heyeti katılacak. Türkiye İşveren Sendikaları Konfederasyonu (TİSK) Başkanı Özgür Burak Akkol, yarın gerçekleşecek kritik toplantı öncesi asgari ücret hakkında açıklamalarda bulundu.",
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/gorusemeye-1-gun-kala-tisk-ten-heyecanlandiran_16020521_65.jpg",
+      "category_Id": "1",
+      "id": 8
+    },
+    {
+      "title": "Elon Musk'ta kullanıcıları kızdıracak hamle! Mesaj sayısına kısıtlama geliyor",
+      "desc": "Elon Musk, bu değişikliği duyururken, platformdaki dolandırıcılıklarla gerçek insanlar arasındaki çizginin giderek belirsizleştiğini vurguladı. Twitter ayrıca, platformdaki gerilimleri hafifletmek amacıyla her kullanıcının günde en fazla 500 mesaj atmasına izin veren bir günlük mesaj sınırı uygulamaya koydu. Twitter'ın yıllık ücretli abonelik hizmeti Twitter Blue, web kullanıcıları için yılda 84 dolar ve iPhone kullanıcıları için yılda 114 dolar maliyetinde.",
+      "image": "https://i.hbrcdn.com/haber/2023/06/13/elon-musk-ta-kullanicilari-kizdiracak-hamle-16023649_5784_300.jpg",
+      "category_Id": "4",
+      "id": 9
+    },
+    {
+      "title": "Büyük gurur! Konferans Ligi'nde sezonun golü Süper Lig ekibinden",
+      "image": "https://i.hbrcdn.com/manset/2023/06/12/super-lig-ekibinin-golu-avrupa-nin-bir-numarasi_16021584_50.jpg",
+      "desc": "Süper Lig ekibi Sivasspor'da forma giyen Erdoğan Yeşilyurt'un İtalyan takımı Fiorentina'ya ceza sahası dışından attığı şahane gol Konferans Ligi'nde sezonun en iyi golü seçildi.",
+      "category_Id": "2",
+      "id": 10
+    }
+  ]
+}
